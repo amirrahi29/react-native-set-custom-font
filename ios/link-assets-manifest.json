@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Marshena_DEMO.ttf",
+      "sha1": "2d5ba5f7e30f7744d35caec24c3a4f1a20f49d05"
+    },
+    {
+      "path": "assets/fonts/NICOLE.ttf",
+      "sha1": "7f1ebe221f005b3559bafde4c7e4d20898891bb0"
+    },
+    {
+      "path": "assets/fonts/Quick Peach.ttf",
+      "sha1": "898aa2526a69a0bee8f5e4ddd90599787bb36063"
+    }
+  ]
+}
